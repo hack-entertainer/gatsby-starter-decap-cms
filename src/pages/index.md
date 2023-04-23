@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/13965306323_a110a42404_k.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: The Journey of 1000 Miles Begins With a Single Step
+subheading: Code Mastery
 mainpitch:
   title: Why Kaldi
   description: >
